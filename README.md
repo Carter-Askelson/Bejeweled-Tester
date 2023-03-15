@@ -3,6 +3,9 @@ Simple project to recreate a match-3 to better learn the <Godot Engine>
 
 The bare skeleton of the game I want to make and publish uses the Match-3 Formula so I wanted to recreate Bejeweled to better learn the Godot Engine.
 
+(You can test the Game by Downloading the Game Folder)
+(You can view the Code in the GDscript Folder)
+
 [Software Demo Video](https://youtu.be/xcnRgNoUoog)
 
 # Development Environment
