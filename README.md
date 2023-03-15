@@ -6,7 +6,7 @@ The bare skeleton of the game I want to make and publish uses the Match-3 Formul
 (You can test the Game by Downloading the Game Folder)
 (You can view the Code in the GDscript Folder)
 
-[Software Demo Video](https://youtu.be/xcnRgNoUoog)
+[Software Demo Video](https://youtu.be/UAXXz3qaksw)
 
 # Development Environment
 Coding Language: GDscript
